@@ -1,12 +1,12 @@
 
-##INTRODUCTION
+## INTRODUCTION
 
 सबSamarth is a potential public empowerment app to be developed and designed to improve and systamise information flow hence improving transparency and efficiency of the workflow of any concerned authority.
 
 As depicted by its name, the app/ website attempts to empower every citizen by making information accessible and authorities easily approachable to them via a user friendly communication channel. This app/ website also focuses on bringing the works of authorities to light and enables people to verify them(works) personally and potentially anonymously hence improving the overall transparency of the workflow.
 
 
-##FUNCTIONING
+## FUNCTIONING
 
 It authenticates using Aadhar. Every user has a “profile” and “What's happening” pages  सबSamarth makes you a part of a digital network corresponding to where you live, hence creating a digital society. It showcases the hierarchy of authorities in your area to make them more recognizable and approachable.
 
